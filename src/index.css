@@ -183,7 +183,7 @@ blockquote ::first-letter {
   text-transform: uppercase;
 }
 pre {
-  background: #222;
+  background: rgb(43, 39, 46);
   display: inline-block;
   border-radius: var(--radius);
   padding: 1rem 2rem;
